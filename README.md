@@ -234,7 +234,7 @@ To uninstall/delete the mysql-operator deployment, run:
 ```
 $ helm delete mysql-operator
 ```
-Checking th pods:
+Checking the pods:
 ```console
 $ kubectl -n innodb-cluster get pods
 
@@ -245,7 +245,8 @@ my-app-db-2   2/2     Terminating   0          15m
 my-app-db-3   2/2     Terminating   0          14m
 ```
 
-### 3.2. Deleting the created namespace
+### 3.2. Deleting the namespace
+To delete the created namespace, run:
 ```
 $ kubectl delete ns innodb-cluster
 ```
