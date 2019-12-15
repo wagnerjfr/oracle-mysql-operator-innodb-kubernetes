@@ -1,4 +1,4 @@
-# oracle-mysql-operator-innodb-kubernetes
+# `oracle-mysql-operator-innodb-kubernetes`
 
 Deploying MySQL High Available solution ([InnoDB Cluster](https://dev.mysql.com/doc/refman/8.0/en/mysql-innodb-cluster-userguide.html) + [Group Replication](https://dev.mysql.com/doc/refman/8.0/en/group-replication.html)) inside Kubernetes using the **Oracle MySQL Operator**.
 
