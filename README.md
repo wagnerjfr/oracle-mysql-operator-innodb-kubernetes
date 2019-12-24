@@ -6,11 +6,11 @@ Deploying MySQL High Available solution ([InnoDB Cluster](https://dev.mysql.com/
 - [Introducing the Oracle MySQL Operator for Kubernetes](https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernetes-b06bd0608726)
 - [Oracle MySQL Operator GitGub Tutorial](https://github.com/oracle/mysql-operator/blob/master/docs/tutorial.md)
 - [Setting up MySQL InnoDB Cluster using Docker containers](https://github.com/wagnerjfr/mysql-innodb-cluster)
-- [Manually install Kubernetes on your laptop computer in minutes](https://github.com/wagnerjfr/kubernetes-cluster-environment-vm-vagrant):star:
+- [Manually install Kubernetes cluster on your laptop computer in minutes](https://github.com/wagnerjfr/kubernetes-cluster-environment-vm-vagrant):star:
 
 ## Prerequisites
 - A Kubernetes v1.8.0+ cluster
-  - **P.S** this project uses the above:arrow_up: mentioned Kubernetes [solution](https://github.com/wagnerjfr/wagnerjfr-kubernetes-cluster-vm-vagrant) running locally in the host computer
+  - **P.S** this project uses the above:arrow_up: mentioned Kubernetes cluster [solution](https://github.com/wagnerjfr/wagnerjfr-kubernetes-cluster-vm-vagrant) running locally in the host computer
 - [Helm](https://helm.sh/docs/intro/install/) installed and configured in your cluster.
 
 ## Oracle MySQL Operator
