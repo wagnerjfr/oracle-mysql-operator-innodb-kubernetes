@@ -66,7 +66,7 @@ mysql-operator	default  	1       	2019-12-14 14:03:58.40078221 +0000 UTC	deploye
 ## 2. Create a simple MySQL InnoDB Cluster
 
 ### 2.1. Setting up
-The first time you create a MySQL Cluster in a namespace (other than in the namespace into which you installed the `mysql-operator`) you need to create the mysql-agent ServiceAccount and RoleBinding in that namespace, in our case will be `innodb-cluster`, run:
+The first time you create a MySQL Cluster in a namespace (other than in the namespace into which you installed the `mysql-operator`) you need to create the mysql-agent *ServiceAccount* and *RoleBinding* in that namespace, in our case will be `innodb-cluster`, run:
 ```
 $ kubectl create namespace innodb-cluster
 ```
