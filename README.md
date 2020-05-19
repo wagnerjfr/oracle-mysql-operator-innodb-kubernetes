@@ -17,9 +17,9 @@ Deploying MySQL High Available solution ([InnoDB Cluster](https://dev.mysql.com/
 ### 1.1. Git clone
 Clone the project and `cd` into the folder:
 ```
-$ git clone https://github.com/wagnerjfr/oracle-mysql-operator-innodb-kubernetes.git
+$ git clone https://github.com/oracle/mysql-operator
 
-$ cd oracle-mysql-operator-innodb-kubernetes
+$ cd mysql-operator
 ```
 
 ### 1.2. Create a namespace
