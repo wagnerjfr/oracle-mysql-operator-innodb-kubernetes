@@ -10,7 +10,7 @@ Deploying MySQL High Available solution ([InnoDB Cluster](https://dev.mysql.com/
 
 ## Prerequisites
 - A Kubernetes v1.8.0+ cluster
-  - **P.S** this project uses the above:arrow_up: mentioned Kubernetes cluster [solution](https://github.com/wagnerjfr/wagnerjfr-kubernetes-cluster-vm-vagrant) running locally in the host computer
+  - **P.S** this project uses the above ↑ mentioned Kubernetes cluster [solution](https://github.com/wagnerjfr/wagnerjfr-kubernetes-cluster-vm-vagrant) running locally in the host computer
 - [Helm](https://helm.sh/docs/intro/install/) installed and configured in your cluster.
 
 ## Oracle MySQL Operator
